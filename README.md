@@ -46,7 +46,7 @@ brain-tumor-detection/
 
 ### 1. Clone the Repository
 
-```bash
+```text
 git clone https://github.com/uzaam07/brain-tumor-detection.git
 cd brain-tumor-detection
 
