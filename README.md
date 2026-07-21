@@ -47,7 +47,7 @@ brain-tumor-detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Uzaam07/brain-tumor-detection.git
+git clone https://github.com/uzaam07/brain-tumor-detection.git
 cd brain-tumor-detection
 
 2. Install Dependencies
