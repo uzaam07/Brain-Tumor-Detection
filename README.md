@@ -5,7 +5,7 @@ This project uses **Convolutional Neural Networks (CNN)** to detect brain tumors
 ---
 
 ## 📁 Project Structure
-
+```text
 brain-tumor-detection/
 ├── static/
 │ └── styles.css
@@ -18,7 +18,7 @@ brain-tumor-detection/
 ├── app.py
 ├── utils.py
 └── README.md
-
+```
 ---
 
 ## 🧪 Model Overview
@@ -109,8 +109,3 @@ Kaggle dataset contributors
 Flask documentation
 
 OpenCV/Pillow for image processing
-
-
-
-
-
