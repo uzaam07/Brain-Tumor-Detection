@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Detection uzing CNN
+# 🧠 Brain Tumor Detection using CNN
 
 This project uses **Convolutional Neural Networks (CNN)** to detect brain tumors from MRI images. It classifies the tumor into four categories: **Glioma**, **Meningioma**, **Pituitary**, and **No Tumor**. The model is trained using TensorFlow and deployed using a Flask web application.
 
@@ -95,12 +95,6 @@ HTML + CSS + JavaScript
 📂 Dataset
 The model was trained on a publicly available dataset from Kaggle
 
-🙋‍♂️ Author
-Uzaam  Shaad K
-📧 uzaamshaad6@gmail.com
-📱 8248878884
-🌍 Banglore, India
-
 ⭐ Acknowledgements
 TensorFlow and Keras community
 
@@ -109,3 +103,13 @@ Kaggle dataset contributors
 Flask documentation
 
 OpenCV/Pillow for image processing
+```
+---
+
+## 👨‍💻 Author
+```text
+👤 Uzaam Shaad K
+📧 uzaamshaad6@gmail.com
+📱 8248878884
+🌍 Banglore, India
+```
